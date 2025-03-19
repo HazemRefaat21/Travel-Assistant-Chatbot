@@ -1,0 +1,113 @@
+
+Name: Hazem
+Phone number: 01148444426
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 1500.0
+Transport: Car rental
+Booking Type: booking
+Name: Hazem
+Phone number: 01148444426
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 1500.0
+Transport: Car rental
+Booking Type: booking
+Name: Hazem
+Phone number: 01148444426
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 2000.0
+Transport: Flight
+Booking Type: booking
+Name: Mido
+Phone number: 01554884873
+Destination: Paris
+Accommodation Type: Hotel
+Cost: 1100.0
+Transport: Train
+Booking Type: booking
+Name: hazemamer
+Phone number: 21213143141
+Destination: Bali
+Accommodation Type: Resort
+Cost: 1200.0
+Transport: Flight
+Booking Type: booking
+Name: hazem
+Phone number: 01148444426
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 1500.0
+Transport: Car rental
+Booking Type: booking
+Name: Hazem Reffat
+Phone number: 01212012122
+Destination: Phnom Penh
+Accommodation Type: Hotel
+Cost: 200.0
+Transport: Flight
+Booking Type: booking
+Name: Hazem Refaat
+Phone number: 01148444426
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 2000.0
+Transport: Flight
+Booking Type: booking
+Name: hazem
+Phone number: 01212
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 2000.0
+Transport: Flight
+Booking Type: booking
+Name: n
+Phone number: n
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 2000.0
+Transport: Flight
+Booking Type: booking
+Name: hazem
+Phone number: 02
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 2000.0
+Transport: Flight
+Booking Type: booking
+Name: Hazem
+Phone number: 01122333222
+Destination: Bali
+Accommodation Type: Villa
+Cost: 1500.0
+Transport: Car rental
+Booking Type: booking
+Name: h
+Phone number: 01212331333
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 2000.0
+Transport: Flight
+Booking Type: booking
+Name: hazem
+Phone number: 011148444426
+Destination: Bali
+Accommodation Type: Resort
+Cost: 2200.0
+Transport: Flight
+Booking Type: booking
+Name: Hazzzzzz
+Phone number: 0123112232
+Destination: Dubai
+Accommodation Type: Hotel
+Cost: 2000.0
+Transport: Flight
+Booking Type: booking
+Name: hazem
+Phone number: 011122222
+Destination: Bali
+Accommodation Type: Resort
+Cost: 2200.0
+Transport: Flight
+Booking Type: booking
